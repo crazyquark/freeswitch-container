@@ -1,6 +1,6 @@
 # Jenkins.
 
-FROM ubuntu:16.04
+FROM armv7/armhf-ubuntu:16.04
 MAINTAINER Thomas Quintana <thomas@bettervoice.com>
 
 # Enable the Ubuntu multiverse repository.
